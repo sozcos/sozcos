@@ -9,7 +9,7 @@
 
 <br>
 
-** Languages & Tools **
+**Languages & Tools**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -22,7 +22,7 @@
 
 <br>
 
-** GitHub Stats **
+**GitHub Stats**
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=sozcos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
